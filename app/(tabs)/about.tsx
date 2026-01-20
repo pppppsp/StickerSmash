@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
+import React  from 'react'
 
-export default function about() {
+export default function about(): any {
   return (
     <View>
       <Text>About screen</Text>
